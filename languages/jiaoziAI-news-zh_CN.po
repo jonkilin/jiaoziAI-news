@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JiaoziAI News 1.0.0\n"
+"Report-Msgid-Bugs-To: https://jiaoziAI.com\n"
+"POT-Creation-Date: 2024-01-01 00:00:00+00:00\n"
+"PO-Revision-Date: 2024-01-01 00:00:00+00:00\n"
+"Last-Translator: JiaoziAI\n"
+"Language-Team: JiaoziAI\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: includes/class-news-post-type.php:24
+msgid "文章标题"
+msgstr "Article Title"
+
+#: includes/class-news-post-type.php:29
+msgid "SEO标题"
+msgstr "SEO Title"
+
+#: includes/class-news-post-type.php:34
+msgid "SEO关键词"
+msgstr "SEO Keywords"
+
+#: includes/class-news-post-type.php:35
+msgid "多个关键词请用英文逗号分隔"
+msgstr "Separate keywords with commas"
+
+#: includes/class-news-post-type.php:39
+msgid "SEO描述"
+msgstr "SEO Description"
+
+#: includes/class-news-post-type.php:44
+msgid "还可输入："
+msgstr "Characters remaining: "
+
+#: includes/class-news-post-type.php:45
+msgid "字"
+msgstr "characters"
+
+#: includes/class-news-post-type.php:49
+msgid "禁止搜索引擎索引"
+msgstr "Disable Search Engine Indexing"
+
+#: includes/class-news-post-type.php:54
+msgid "快讯来源"
+msgstr "News Source"
+
+#: includes/class-news-post-type.php:59
+msgid "来源链接"
+msgstr "Source URL"
+
+#: includes/class-news-post-type.php:64
+msgid "标题颜色"
+msgstr "Title Color"
+
+#: includes/class-news-post-type.php:74
+msgid "JiaoziAI快讯"
+msgstr "JiaoziAI News"
+
+#: includes/class-news-post-type.php:75
+msgid "快讯"
+msgstr "News"
+
+#: includes/class-news-post-type.php:76
+msgid "添加快讯"
+msgstr "Add News"
+
+#: includes/class-news-post-type.php:77
+msgid "添加新快讯"
+msgstr "Add New News"
+
+#: includes/class-news-post-type.php:78
+msgid "编辑快讯"
+msgstr "Edit News"
+
+#: includes/class-news-post-type.php:79
+msgid "新快讯"
+msgstr "New News"
+
+#: includes/class-news-post-type.php:80
+msgid "查看快讯"
+msgstr "View News"
+
+#: includes/class-news-post-type.php:81
+msgid "搜索快讯"
+msgstr "Search News"
+
+#: includes/class-news-post-type.php:82
+msgid "没有找到快讯"
+msgstr "No news found"
+
+#: includes/class-news-post-type.php:83
+msgid "回收站中没有快讯"
+msgstr "No news found in trash"
+
+#: includes/class-news-post-type.php:110
+msgid "快讯分类"
+msgstr "News Categories"
+
+#: includes/class-news-post-type.php:111
+msgid "分类"
+msgstr "Category"
+
+#: includes/class-news-post-type.php:120
+msgid "快讯标签"
+msgstr "News Tags"
+
+#: includes/class-news-post-type.php:121
+msgid "标签"
+msgstr "Tag"
+
+#: includes/class-news-widget.php:13
+msgid "显示最新的快讯列表"
+msgstr "Display Latest News List"
+
+#: includes/class-news-widget.php:48
+msgid "查看更多快讯"
+msgstr "View More News"
+
+#: includes/class-news-widget.php:89
+msgid "标题："
+msgstr "Title:"
+
+#: includes/class-news-widget.php:94
+msgid "显示数量："
+msgstr "Number of news to show:"
+
+#: includes/class-news-widget.php:99
+msgid "显示日期"
+msgstr "Show Date"
+
+#: includes/class-news-widget.php:104
+msgid "显示摘要"
+msgstr "Show Excerpt"
+
+#: templates/content-news.php:31
+msgid "发布于"
+msgstr "Posted on"
+
+#: templates/content-news.php:33
+msgid "作者"
+msgstr "by"
+
+#: templates/content-news.php:42
+msgid "来源："
+msgstr "Source: "
+
+#: templates/content-news.php:52
+msgid "分享到微博"
+msgstr "Share to Weibo"
+
+#: templates/content-news.php:57
+msgid "分享到微信"
+msgstr "Share to WeChat"
+
+#: jiaoziAI-news.php:289
+msgid "加载中..."
+msgstr "Loading..."
+
+#: jiaoziAI-news.php:290
+msgid "加载更多"
+msgstr "Load More"
+
+#: jiaoziAI-news.php:321
+msgid "请填写来源链接"
+msgstr "Please enter source URL"
+
+#: jiaoziAI-news.php:322
+msgid "请填写来源名称"
+msgstr "Please enter source name"
+
+#: jiaoziAI-news.php:384
+msgid "设置"
+msgstr "Settings"
+
+#: includes/class-news-post-type.php:125
+msgid "相关快讯"
+msgstr "Related News"
+
+#: includes/class-news-post-type.php:130
+msgid "热门快讯"
+msgstr "Popular News"
+
+#: templates/content-news.php:47
+msgid "分类于"
+msgstr "in"
+
+#: templates/content-news.php:62
+msgid "分享"
+msgstr "Share"
+
+#: includes/class-news-post-type.php:135
+msgid "快讯设置"
+msgstr "News Settings"
+
+#: includes/class-news-post-type.php:140
+msgid "SEO设置"
+msgstr "SEO Settings"
+
+#: includes/class-news-post-type.php:145
+msgid "保存"
+msgstr "Save"
+
+#: includes/class-news-post-type.php:150
+msgid "取消"
+msgstr "Cancel"
+
+#: includes/class-news-post-type.php:155
+msgid "确认删除"
+msgstr "Confirm Delete"
+
+#: includes/class-news-post-type.php:160
+msgid "预览"
+msgstr "Preview"
+
+#: includes/class-news-post-type.php:165
+msgid "发布"
+msgstr "Publish"
+
+#: includes/class-news-post-type.php:170
+msgid "更新"
+msgstr "Update"
+
+#: includes/class-news-post-type.php:175
+msgid "快讯归档"
+msgstr "News Archive"
+
+#: includes/class-news-post-type.php:180
+msgid "最新快讯"
+msgstr "Latest News"
+
+#: includes/class-news-post-type.php:185
+msgid "标签云"
+msgstr "Tag Cloud"
+
+#: templates/content-news.php:67
+msgid "分享到："
+msgstr "Share to:"
+
+#: templates/content-news.php:72
+msgid "阅读全文"
+msgstr "Read More"
+
+#: templates/content-news.php:77
+msgid "上一页"
+msgstr "Previous Page"
+
+#: templates/content-news.php:82
+msgid "下一页"
+msgstr "Next Page"
+
+#: templates/content-news.php:87
+msgid "搜索结果"
+msgstr "Search Results"
+
+#: templates/content-news.php:92
+msgid "没有找到相关快讯"
+msgstr "No related news found"
+
+#: assets/js/admin.js:89
+msgid "选择图片"
+msgstr "Select Image"
+
+#: assets/js/admin.js:91
+msgid "使用此图片"
+msgstr "Use This Image"
+
+#: assets/js/script.js:156
+msgid "扫描分享到微信"
+msgstr "Scan to share on WeChat"
+
+#: assets/js/script.js:157
+msgid "关闭"
+msgstr "Close"
