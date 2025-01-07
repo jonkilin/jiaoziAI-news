@@ -1,1 +1,29 @@
+.jiaoziAI-news-settings {
+    max-width: 800px;
+    margin: 20px 0;
+}
 
+.jiaoziAI-news-settings .form-table th {
+    width: 200px;
+}
+
+.jiaoziAI-news-settings .description {
+    font-style: italic;
+    color: #666;
+}
+
+.jiaoziAI-news-meta-box {
+    margin: 15px 0;
+}
+
+.jiaoziAI-news-meta-box label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.jiaoziAI-news-meta-box input[type="text"],
+.jiaoziAI-news-meta-box textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
